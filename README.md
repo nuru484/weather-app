@@ -40,3 +40,16 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
   - Add a 'loading' component during API requests.
 - General overview of challenge:
   - This project involves fetching weather data, processing it, and displaying it on a webpage. Users can input their location, and the page look changes based on weather conditions. Optional enhancements include a loading component and testing for low-end devices. Note the importance of API key security.
+
+### Screenshot
+
+![Desktop-view-of-app](./assets/weather-app-desktop-view.png)
+
+<div align="center">
+  <img src="../src/assets/weather-app-mobile-view.png" alt="mobile-view-of-app" width="300">
+</div>
+
+### Links
+
+- Source code URL: https://github.com/nuru484/weather-app
+- Live Site URL: https://nuru484.github.io/weather-app/
