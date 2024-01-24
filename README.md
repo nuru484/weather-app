@@ -46,8 +46,17 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 ![Desktop-view-of-app](./assets/weather-app-desktop-view.png)
 
 <div align="center">
-  <img src="../src/assets/weather-app-mobile-view.png" alt="mobile-view-of-app" width="300">
+  <img src="./assets/weather-app-mobile-view.png" alt="mobile-view-of-app" width="300">
 </div>
+
+<div class="search-container" id="search-id">
+          <input type="search" placeholder="Search Location" name="search" />
+          <img
+            src="./assets/search.png"
+            alt="search icon"
+            class="search-icon"
+          />
+        </div>
 
 ### Links
 
