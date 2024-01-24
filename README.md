@@ -78,3 +78,12 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 - Provides a search functionality for users to easily find weather information for a specific location.
 - Presents a user-friendly form for users to input their location, enhancing the overall user experience.
 - Ensures the app is designed to be responsive, providing a consistent and optimal experience across various devices.
+
+### What I learned
+
+- Gained experience in integrating external APIs (WeatherAPI) into a web application.
+- Learned how to extract and process relevant information from API responses to display meaningful data.
+- Explored designing and implementing a user-friendly form for inputting location data.
+- Applied responsive design principles to ensure a consistent and optimized user experience across various devices.
+- Explored methods for presenting data in an informative and visually appealing manner on the webpage.
+- Developed skills in documenting project requirements, features, and optional enhancements for clarity and future reference.
