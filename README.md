@@ -94,3 +94,8 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 - Add a feature to display historical weather data for a selected location.
 - Integrate weather alert notifications to inform users of severe weather conditions in their chosen location.
 - Create user accounts to allow users to save their favorite locations and customize their preferences.
+
+### Useful resources
+
+- [OpenAI](https://chat.openai.com/?model=text-davinci-002-render-sha) - I use ChatGPT to understand syntax and some complex data structures.
+- [Flaticon](https://www.flaticon.com/)
