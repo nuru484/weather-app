@@ -87,3 +87,10 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 - Applied responsive design principles to ensure a consistent and optimized user experience across various devices.
 - Explored methods for presenting data in an informative and visually appealing manner on the webpage.
 - Developed skills in documenting project requirements, features, and optional enhancements for clarity and future reference.
+
+### Continued development
+
+- Implement geolocation to automatically fetch weather information based on the user's current location.
+- Add a feature to display historical weather data for a selected location.
+- Integrate weather alert notifications to inform users of severe weather conditions in their chosen location.
+- Create user accounts to allow users to save their favorite locations and customize their preferences.
