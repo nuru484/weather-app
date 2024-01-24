@@ -71,3 +71,10 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 - ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 - ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
 - ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Features
+
+- Weather Information Retrieval.
+- Provides a search functionality for users to easily find weather information for a specific location.
+- Presents a user-friendly form for users to input their location, enhancing the overall user experience.
+- Ensures the app is designed to be responsive, providing a consistent and optimal experience across various devices.
