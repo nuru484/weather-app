@@ -49,16 +49,25 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
   <img src="./assets/weather-app-mobile-view.png" alt="mobile-view-of-app" width="300">
 </div>
 
-<div class="search-container" id="search-id">
-          <input type="search" placeholder="Search Location" name="search" />
-          <img
-            src="./assets/search.png"
-            alt="search icon"
-            class="search-icon"
-          />
-        </div>
-
 ### Links
 
 - Source code URL: https://github.com/nuru484/weather-app
 - Live Site URL: https://nuru484.github.io/weather-app/
+
+## My process
+
+### Built with
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Tools Used
+
+- ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- ![Shell Script](https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+- ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
+- ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
