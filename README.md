@@ -97,7 +97,6 @@ This is a solution to the [Weather App project in The Odin Project curriculum](h
 
 ### Useful resources
 
-- [OpenAI](https://chat.openai.com/?model=text-davinci-002-render-sha) - I use ChatGPT to understand syntax and some complex data structures.
 - [Flaticon](https://www.flaticon.com/)
 
 ## Author
